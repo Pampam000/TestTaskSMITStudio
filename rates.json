@@ -1,0 +1,43 @@
+{
+  "2023-07-17": [
+    {
+      "cargo_type": "Glass",
+      "rate": "0.04"
+    },
+    {
+      "cargo_type": "Other",
+      "rate": "0.05"
+    }
+  ],
+  "2023-07-18": [
+    {
+      "cargo_type": "Glass",
+      "rate": "0.045"
+    },
+    {
+      "cargo_type": "Other",
+      "rate": "0.055"
+    }
+  ],
+  "2023-07-19": [
+    {
+      "cargo_type": "Glass",
+      "rate": "0.05"
+    },
+    {
+      "cargo_type": "Other",
+      "rate": "0.06"
+    }
+  ],
+  "2023-07-20": [
+    {
+      "cargo_type": "Glass",
+      "rate": "0.06"
+    },
+    {
+      "cargo_type": "Other",
+      "rate": "0.07"
+    }
+  ]
+
+}
